@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"c27b48b6fcc13a19","type":"text","text":"## High Temp\n- Are you in a high emotional state or crisis?\n- Can nothing be done about the situation","x":-420,"y":-425,"width":260,"height":365},
+		{"id":"9e546e58c16c0841","type":"text","text":"## Distress Tolerance Skills\n(in order of most to least automatic)\n- [[TIP Skills]]\n- [[ACCEPT Skills]]\n- [[Self-Soothe Skills]]\n- [[IMPROVE Skill]]\n- ","x":-40,"y":-475,"width":400,"height":465}
+	],
+	"edges":[
+		{"id":"e78dcdb5966c126d","fromNode":"c27b48b6fcc13a19","fromSide":"right","toNode":"9e546e58c16c0841","toSide":"left"}
+	]
+}
