@@ -1,14 +1,12 @@
 ---
 tags:
   - dbt
-  - mental-health
-  - skill
 created: 2026-8-5
 status: in-progress
 ---
 
  
-Why check the facts?
+## Why check the facts?
 - Thoughts and interpretations can set off painful emotions
 - Faulty beliefs lead to emotional misery
 - Faulty beliefs cause new problems
@@ -21,7 +19,7 @@ Why check the facts?
 - knowing the facts is essential for solving problems
 - examining our thoughts and checking the facts can change our emotions
 
-How to check the facts?
+## How to check the facts?
 1. What is the emotion I want to change? (p198) rate the intensity of that emotion from 0-100
 2. What is the prompting event?
 	- Can be internal or external
