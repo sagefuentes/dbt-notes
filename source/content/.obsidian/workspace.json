@@ -11,10 +11,14 @@
             "id": "2d8837e6263008e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -169,11 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "Skills/03 Emotional Regulation/Managing Extreme Emotions.md",
+    "index.md",
+    "Skills/Emotional Regulation Skills.md",
     "category-folder/index.md",
-    "index.md",
-    "index.md",
     "category-folder/Some note.md",
     "category-folder"
   ]

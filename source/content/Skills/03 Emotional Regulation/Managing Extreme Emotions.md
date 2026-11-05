@@ -14,12 +14,12 @@ dbt:
 	- Mass overwhelm
 	- Can't focus you mind
 	- Mind shuts down and you are not processing new information
-	- You feel the urge for fight, flight, freeze, fawn, f*** (f*** is what the neurophysio people use, this is a target behavior for some, but this also may be useful for you )
+	- You feel the urge for fight, flight, freeze, fawn, f*** (fight, flight, freeze, f*** is what the neurophysio people use, this is a target behavior for some, but this also may be useful for you )
 	- Heartbeat accelerating
 	- Frontal lobe processes are not working well
 		- Concentration, sequencing tasks, organization, as some examples
 	- Cannot solve problems or use complicated skills
-		- [[Interpersonal Effectiveness Skills]] and/or other [[Emotional regulation skills]]
+		- [[Interpersonal Effectiveness Skills]] and/or other emotional regulation skills
 	- What are your signs? Do you have them written down somewhere that is easy for you to access? (pinned note in a notes app, piece of paper near your desk or bed. For ADHD, is it a different color or font so it doesn't blend in with other things?)
 		- My signs as an example: overthinking, loss of control in a situation, urge to avoid or hide
 2. [[Check the Facts]]
@@ -36,4 +36,4 @@ Defer to your own Skills Breakdown Plan or follow book suggestions
 	- [[Self-Soothe Skills]]
 	- [[IMPROVE Skill]]
 2. Return to [[Mindfulness of Emotion]]
-3. Try other [[Emotional Regulation Skills]]
+3. Try other emotional regulation skills
